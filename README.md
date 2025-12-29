@@ -4,4 +4,4 @@ The microcontroller receives ADC values from the main microcontroller via UART. 
 
 Battery Voltages:<br/>
 MAX = 16.9 V<br/>
-MIN = switch out battery once below 14.4 V<br/>
+MIN = 0.0 V (switch out battery once below 14.4 V)<br/>
